@@ -39,7 +39,7 @@ a:hover,
 a:focus {
   text-decoration: none;
   outline: none;
-  color: #e12454;
+  color: #0080CB;
   transition: all 0.5s;
 }
 
@@ -138,7 +138,7 @@ ul {
 }
 
 .home1-section-heading1 {
-  color: #e12454;
+  color: #4798D1;
   text-align: center;
   padding-bottom: 12px;
 }
@@ -176,7 +176,7 @@ ul {
 a.button-btn, button.button-btn {
   padding: 0px 55px;
   display: inline-block;
-  background-color: #e12454;
+  background-color: #00659D;
   color: #fff;
   line-height: 50px;
   border-radius: 30px;
@@ -197,7 +197,7 @@ a.button-btn:before, button.button-btn:before {
   right: 0;
   bottom: 0;
   left: -4px;
-  background-color: #b3183f;
+  background-color: #0080CB;
   transform: translateX(-100%);
   z-index: -1;
   transition: 0.5s ease-in-out;
@@ -205,7 +205,7 @@ a.button-btn:before, button.button-btn:before {
 
 a.button-btn:hover, button.button-btn:hover {
   color: #fff;
-  border-color: #ffd9db;
+  border-color: #9FDCF4;
 }
 
 a.button-btn:hover:before, button.button-btn:hover:before {
@@ -213,8 +213,8 @@ a.button-btn:hover:before, button.button-btn:hover:before {
 }
 
 a.button-btn:hover span, button.button-btn:hover span {
-  background-color: #e12454;
-  color: #ffd9db;
+  background-color: #8CCEEF;
+  color: #9FDCF4;
 }
 
 a.button-btn span, button.button-btn span {
@@ -223,12 +223,12 @@ a.button-btn span, button.button-btn span {
   width: 40px;
   line-height: 40px;
   border-radius: 50%;
-  background-color: #ffd9db;
+  background-color: #1da1f2;
   text-align: center;
   right: 5px;
   top: 50%;
   transform: translateY(-50%);
-  color: #e12454;
+  color: #ffffff;
   transition: all 0.5s;
 }
 
@@ -308,7 +308,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .select-options li:hover {
-  background: #e12454;
+  background: #8CCEEF;
   color: #fff;
 }
 
@@ -317,7 +317,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .mobile-menu-wrapper {
-  background-color: #e12454;
+  background-color: #9FDCF4;
   padding: 15px 0px;
 }
 
@@ -394,14 +394,14 @@ a.button-btn span, button.button-btn span {
   border: none;
   width: 47px;
   height: 46px;
-  background: #ffd9db;
+  background: #9FDCF4;
   line-height: 26px;
   border-radius: 50%;
   text-align: center;
 }
 
 #sidebar #cssmenu ul li .social-icon li a {
-  color: #e12454;
+  color: #00659D;
   display: inline-block;
   padding: 10px 0px;
 }
@@ -730,7 +730,7 @@ header css
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-left-section a:hover {
-  color: #e12454;
+  color: #4798D1;
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul {
@@ -745,14 +745,14 @@ header css
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul li a:hover {
-  color: #e12454;
+  color: #07649D;
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul .login-btn {
   transition: all 0.5s;
   width: 160px;
   text-align: center;
-  background-color: #b51a41;
+  background-color: #4798D1;
   color: #ffffff;
 }
 
@@ -784,15 +784,15 @@ header css
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  background-color: #ffd9db;
-  color: #e12454;
+  background-color: #8CCEEF;
+  color: #07649D;
   text-align: center;
   line-height: 35px;
   margin: 10px 15px;
 }
 
 .menu-items-wrapper {
-  background-color: #e12454;
+  background-color: #4798D1;
   padding: 13px 0px;
 }
 
@@ -814,7 +814,7 @@ header css
 .menu-items-wrapper nav ul li .dropdown-items {
   position: absolute;
   background-color: #fff;
-  border-bottom: 2px solid #e12454;
+  border-bottom: 2px solid #00659D;
   z-index: 999;
   top: 50px;
   opacity: 0;
@@ -852,7 +852,7 @@ header css
   top: 0;
   width: 200px;
   background-color: #fff;
-  border-bottom: 2px solid #e12454;
+  border-bottom: 2px solid #00659D;
   box-shadow: 2px 0 10px #0000001a;
 }
 
@@ -869,7 +869,7 @@ header css
 }
 
 .menu-items-wrapper nav ul li .dropdown-items li:hover {
-  background-color: #e12454;
+  background-color: #00659D;
 }
 
 .menu-items-wrapper nav ul li .dropdown-items li:hover:after {
@@ -909,7 +909,7 @@ header css
 
 .menu-items-wrapper form input {
   width: 380px;
-  background: #e43662;
+  background: #8CCEEF;
   border: none;
   height: 40px;
   color: #fff;
@@ -2165,7 +2165,7 @@ Services section
   float: left;
   width: 100%;
   padding: 100px 0px 30px 0;
-  background-image: url("../images/footer-bg.png");
+  background-color:#4798D1;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3026,7 +3026,7 @@ section:hover .hover-type a {
 }
 
 .banner-main-wrapper3 .carousel .carousel-item {
-  background-image: url("../images/home3/bg-Image-01.jpg");
+  background-image: url("../images/banner1.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3041,12 +3041,14 @@ section:hover .hover-type a {
 }
 
 .banner-main-wrapper3 .carousel .carousel-item h4 {
-  color: #444444;
+  color: #FFFFFF;
   margin-bottom: 20px;
 }
 
 .banner-main-wrapper3 .carousel .carousel-item h2 {
   font-weight: 600;
+  margin-top: 180px;
+  color:#0a3382 ;
 }
 
 .banner-main-wrapper3 .carousel .carousel-item h2 span {
@@ -3062,7 +3064,7 @@ section:hover .hover-type a {
   height: 7px;
   width: 7px;
   border-radius: 50px;
-  background-color: #0a3382;
+  background-color: #ffffff;
   border: 0 !important;
   transition: all 0.5s;
 }
@@ -7274,8 +7276,8 @@ ul {
 }
 
 .team-one-wrapper .team-slider-wrapper .owl-carousel .item .slider-content .image-wrapper .image-wrapper-overlay .content-wrapper .social-icon li a:hover {
-  border: 1px solid #e12454;
-  background: #e12454;
+  border: 1px solid #9FDCF4;
+  background: #9FDCF4;
   transition: all .5s;
 }
 
@@ -7583,7 +7585,7 @@ ul {
 }
 
 .team-four-wrapper .owl-theme .owl-dots .owl-dot:hover span, .team-four-wrapper .owl-theme .owl-dots .owl-dot.active span {
-  background: #e12454;
+  background: #9FDCF4;
   width: 8px;
   height: 8px;
   transition: all 0.5s;
@@ -7648,7 +7650,7 @@ ul {
 }
 
 .icon2-main-wrapper .social-icons ul li a.google:hover {
-  color: #dc4a38;
+  color: #4798D1;
   transform: translateY(-10px);
 }
 
@@ -9817,7 +9819,7 @@ ul {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #e12454;
+  background-color: #4798D1;
   z-index: 10000;
   -o-box-shadow: 0px 0px 25px -10px;
   -ms-box-shadow: 0px 0px 25px -10px;
@@ -9836,7 +9838,7 @@ ul {
   border-radius: 50px;
   line-height: 50px;
   font-size: 24px;
-  background: #e12454;
+  background: #00659D;
   transition: all 0.3s ease;
   z-index: 999;
   color: #fff;
