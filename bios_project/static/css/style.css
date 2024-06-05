@@ -317,7 +317,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .mobile-menu-wrapper {
-  background-color: #9FDCF4;
+  background-color: #00659D;
   padding: 15px 0px;
 }
 
@@ -453,8 +453,9 @@ a.button-btn span, button.button-btn span {
 
 .page2-btn {
   padding: 7px 25px;
-  background-color: #004274;
+  background-color: #00659D;
   color: #fff;
+  border-radius: 20px;
   display: inline-block;
   text-align: center;
   line-height: 40px;
@@ -506,7 +507,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .bg-change {
-  background-color: #00b3ff;
+  background-color: #0080CB;
 }
 
 .bg-change:before {
@@ -784,8 +785,8 @@ header css
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  background-color: #8CCEEF;
-  color: #07649D;
+  background-color: #00659D;
+  color: #fff;
   text-align: center;
   line-height: 35px;
   margin: 10px 15px;
@@ -1247,7 +1248,7 @@ Banner section css
 }
 
 .banner-main-wrapper2 #carouselExampleCaptions .carousel-item h4 span {
-  color: #004274;
+  color: #00659D;
 }
 
 .banner-main-wrapper2 #carouselExampleCaptions .carousel-item h3 {
@@ -1840,7 +1841,7 @@ Services section
 .blog-main-wrapper {
   float: left;
   width: 100%;
-  padding: 100px 0px;
+  padding: 30px 0px;
 }
 
 .blog-main-wrapper .sb-blog-main-section p {
@@ -2436,7 +2437,7 @@ Services section
 }
 
 .page-2-heading h4 span {
-  color: #00b3ff;
+  color: #4798D1;
 }
 
 .page-2-heading h4:before {
@@ -2459,7 +2460,7 @@ Services section
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #00b3ff;
+  background: #4798D1;
   top: 49px;
 }
 
@@ -2475,7 +2476,7 @@ section {
 section .sb-service-section2 {
   text-align: center;
   padding: 40px 30px;
-  background-color: #00b3ff;
+  background-color: #fff;
   color: #fff;
   position: relative;
   z-index: 1;
@@ -2504,7 +2505,7 @@ section .sb-service-section2 p {
 
 section .hover-type a {
   padding: 15px 0px;
-  background-color: #004274;
+  background-color: #4798D1;
   color: #fff;
   position: absolute;
   bottom: 0;
@@ -2512,7 +2513,7 @@ section .hover-type a {
 
 section:hover .sb-service-section2 {
   transform: translateY(-53px);
-  background-color: #009adb;
+  background-color: #004274;
 }
 
 section:hover .hover-type a {
@@ -2599,7 +2600,7 @@ section:hover .hover-type a {
 }
 
 .emergency2-main-wrapper .video-section {
-  background-image: url("../images/video-img2.png");
+  background-image: url("../images/call_center.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2616,7 +2617,7 @@ section:hover .hover-type a {
 }
 
 .emergency2-main-wrapper .sb-emergency-section {
-  background-color: #00b3ff;
+  background-color: #4798D1;
   color: #fff;
   padding: 52px 70px;
   padding-right: 0px;
@@ -2668,7 +2669,7 @@ section:hover .hover-type a {
 .service2-main-wrapper .sb-service-box i {
   font-size: 65px;
   padding-bottom: 10px;
-  color: #00b3ff;
+  color: #0080CB;
 }
 
 .service2-main-wrapper .sb-service-box h6 {
@@ -2677,7 +2678,7 @@ section:hover .hover-type a {
 }
 
 .service2-main-wrapper .sb-service-box:hover {
-  background: #00b3ff;
+  background: #0080CB;
   color: #fff;
   transform: scale(1.1);
 }
@@ -2712,7 +2713,7 @@ section:hover .hover-type a {
 }
 
 .founder-main-wrapper .sb-founder-section section .hover-type a {
-  background-color: #00b3ff;
+  background-color: #4798D1;
   color: #fff;
 }
 
@@ -3047,17 +3048,21 @@ section:hover .hover-type a {
 
 .banner-main-wrapper3 .carousel .carousel-item h2 {
   font-weight: 600;
-  margin-top: 180px;
-  color:#0a3382 ;
+  margin-top: 200px;
+  color:#fff ;
+  text-shadow: 2px 2px 4px #717171;
 }
 
 .banner-main-wrapper3 .carousel .carousel-item h2 span {
-  color: #0a3382;
+  color: #0080CB;
   line-height: 66px;
+  text-shadow: 2px 2px 4px #717171;
 }
 
 .banner-main-wrapper3 .carousel .carousel-item p {
   margin-top: 20px;
+  color:#fff;
+  text-shadow: 2px 2px 4px #717171;
 }
 
 .banner-main-wrapper3 .carousel .carousel-indicators button {

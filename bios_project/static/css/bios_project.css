@@ -1,6 +1,6 @@
 /* Estilo básico para el logo */
 .responsive-logo {
-    display: block;
+    display: inline-block;
     width: auto; /* Esto asegura que el logo sea responsivo por defecto */
     height: 100%; /* Mantener la proporción del logo */
     max-height: 60px;
@@ -46,4 +46,11 @@
 
 .navbar-nav .nav-link span {
     margin-left: 5px;
+}
+
+.color-icon-tb li a {
+    color: #6DC1E2;
+
+}.color-icon-tb a {
+    color: #6DC1E2;
 }
